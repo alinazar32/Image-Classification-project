@@ -19,8 +19,24 @@ This repository contains an image processing project that applies various techni
 - joblib
 
   # 🚀 Installation
-- Clone the repository
+1- Clone the repository:
 
   ```python
   code
-  
+  https://github.com/alinazar32/Image-Classification-project.git
+  ```
+2- Navigate to the project directory:
+  ```python
+  code
+  cd image-processing
+   ```
+3- Install dependencies:
+```python
+copy
+pip install -r requirements.txt
+```
+
+  # 📄 License
+This project is licensed under the MIT License.
+
+
